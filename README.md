@@ -1,2 +1,2 @@
 ad monitoring
-ad custome
+ad customers
